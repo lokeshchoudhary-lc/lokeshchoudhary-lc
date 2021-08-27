@@ -19,5 +19,8 @@
 <br>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=lokeshchoudhary-lc&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=gotham" alt="LOKESH CHOUDHARY'S Github Stats"></p>
 <h3><p align="center">Ask me anything <a href="https://github.com/lokeshchoudhary-lc/lokeshchoudhary-lc/issues/new"><b>here</b></a><br>
-or <a href="mailto:lokeshchoudhary8949@gmail.com"><b>lokeshchoudhary8949@gmail.com</b></a> email me.</p></h3>     
+or <a href="mailto:lokeshchoudhary8949@gmail.com"><b>lokeshchoudhary8949@gmail.com</b></a> email me.
+ <br>
+ 📝 Read my articles on <a href="https://dev.to/lokeshchoudharylc">Dev.to</a>
+</p></h3>     
 
