@@ -13,9 +13,15 @@
 <br>
 
 <h3 align="center">Languages and Tools:</h3>
-
-<p align="center" > <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="60" height="60"/> </a>
- <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="70" height="70"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="60" height="60"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60"/> </a> </p>
+<div align="center">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></img>
+<img src="https://img.shields.io/badge/Docker-1572B6?style=for-the-badge&logo=docker&logoColor=white"></img>
+<img src="https://img.shields.io/badge/NodeJS-32CD32?style=for-the-badge&logo=node.js&logoColor=black"></img>
+<img src="https://img.shields.io/badge/MONGODB-1572B6?style=for-the-badge&logo=mongodb&logoColor=limegreen"></img>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></img>
+<img src="https://img.shields.io/badge/GIT-b0ff00?style=for-the-badge&logo=git&logoColor=red"></img>
+<img src="https://img.shields.io/badge/ReactJS-ff4c4c?style=for-the-badge&logo=react&logoColor=darkblue"></img>
+<div>
 <br>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=lokeshchoudhary-lc&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=gotham" alt="LOKESH CHOUDHARY'S Github Stats"></p>
 <h3><p align="center">Ask me anything <a href="https://github.com/lokeshchoudhary-lc/lokeshchoudhary-lc/issues/new"><b>here</b></a><br>
