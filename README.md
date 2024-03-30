@@ -20,6 +20,8 @@
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></img>
 <img src="https://img.shields.io/badge/GIT-b0ff00?style=for-the-badge&logo=git&logoColor=red"></img>
 <img src="https://img.shields.io/badge/ReactJS-ff4c4c?style=for-the-badge&logo=react&logoColor=darkblue"></img>
+<img src="https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white"></img>
+<img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"></img>
 <div>
 <br>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=lokeshchoudhary-lc&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=gotham" alt="LOKESH CHOUDHARY'S Github Stats"></p>
